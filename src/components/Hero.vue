@@ -1,6 +1,6 @@
 <template>
     <div>
-        <img src="../src/assets/wowjumbotron.jpg" alt="">
+        <img src="" alt="">
         <p></p>
     </div>
 </template>
